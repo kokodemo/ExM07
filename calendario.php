@@ -16,7 +16,7 @@
 		
 <?php 
 				#$lista=array("Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo")
-				
+				#prueba
 				for ($i=0; $i < 31; $i++) { 
 				 	
 				 	if ($i==0) {
