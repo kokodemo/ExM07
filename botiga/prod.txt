@@ -1,0 +1,4 @@
+Patatas;Patatas blancas;1.05
+Peras;Pera normal;2.07
+Fresas;Fresón;5.03
+hola;prueba;3
