@@ -2,3 +2,8 @@ Patatas;Patatas blancas;1.05
 Peras;Pera normal;2.07
 Fresas;Fresón;5.03
 hola;prueba;3
+nuevo;plato;1
+prueba2;assss;3
+prueba2;assss;3
+prueba3;sososos;9
+prueba6;pppp;8
