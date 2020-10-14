@@ -7,19 +7,14 @@
 <form>
 	<h2>Añadir Productos al carro.
 	</h2>
-	 <input list="browsers" type="text">
+ 
+	<br>
+	<label for="products">PRODUCTO</label>
+	<br>
+	<select id="products">
+			
 
-<datalist id="browsers">
-  <option value="Internet Explorer">
-  <option value="Firefox">
-  <option value="Google Chrome">
-  <option value="Opera">
-  <option value="Safari">
-</datalist> 
-	<br>
-	<label>PRODUCTO</label>
-	<br>
-	<input list="browsers" name="lista1" type="">
+	</select>
 	<br>
 	<label>CANTIDAD</label>
 	<br>
